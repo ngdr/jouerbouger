@@ -1,0 +1,10 @@
+ficheParc.php
+- attacher la carte à la bdd
+- redirection si parc non donnée en get
+- donner le nombre de jeux par parcs
+
+Recherche:
+- proximité
+- ville
+- nbr jeux
+- par catégorie de jeux
